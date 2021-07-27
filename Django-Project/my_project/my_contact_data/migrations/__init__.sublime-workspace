@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ca",
+				"cal"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"text",
+				"text1"
+			],
+			[
+				"s",
+				"slide"
+			],
+			[
+				"m",
+				"myTime"
+			],
+			[
+				"change",
+				"changeImage"
+			],
+			[
+				"image",
+				"imageArray"
+			],
+			[
+				"im",
+				"imageIndex"
+			],
+			[
+				"ima",
+				"imageArray"
+			],
+			[
+				"my",
+				"myPhoto"
+			],
+			[
+				"PADDING",
+				"padding-top\tproperty"
+			],
+			[
+				"BA",
+				"background\tproperty"
+			],
+			[
+				"F",
+				"FFFFFF"
+			],
+			[
+				"W",
+				"Widow"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"color",
+				"color\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fulid",
+				"container-fluid"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"Padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"tet",
+				"text-center"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"fo",
+				"form-check"
+			],
+			[
+				"f",
+				"form-check"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"col",
+				"collapsibleNavbar"
+			],
+			[
+				"n",
+				"navbar-toggler"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"jpg",
+				"JPG"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHP-MySQL/connect.php",
+		"/C/xampp/htdocs/PHP-MySQL/createdatabase.php",
+		"/C/xampp/htdocs/PHP-MySQL/update.php",
+		"/C/xampp/htdocs/PHP-MySQL/delete.php",
+		"/C/xampp/htdocs/PHP-MySQL/insert.php",
+		"/C/xampp/htdocs/PHP-MySQL/product.html",
+		"/C/xampp/htdocs/PHP-MySQL/select.php",
+		"/C/xampp/htdocs/PHP-MySQL/createtable.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/createtable.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/update.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/select.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/delete.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/insert.php",
+		"/C/xampp/htdocs/PHP-MySQL/prime.html",
+		"/C/xampp/htdocs/PHP-MySQL/prime.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/formhandling.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/formhandling.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/PHP-MySQL/prime.php",
+		"/F/Neil/Certification Course in Web Development/Assignments/PHP-MySQL/prime.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/WTworkshop/studdetails.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/JavaScript/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/JavaScript/last.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/JavaScript/first.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/README.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/style.css",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/html-css/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/html-css/style.css",
+		"/F/Neil/Certification Course in Web Development/Assignments/HTML-CSS/css/style.css",
+		"/F/Neil/Certification Course in Web Development/Assignments/Login_v2/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/simpleslideshow/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/Sample code of Javascript/settimeout.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/Bootstrap/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/web-dev/index.html",
+		"/F/Neil/Certification Course in Web Development/Assignments/index.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 2/assignment-1 2/index.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 2/assignment-1 2/history.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 2/assignment-1 2/teams.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 2/assignment-1 2/css/hw1.css",
+		"/G/Nevron/Pictures/Personal/Pictures-Selfie's/Sent/No Files.media/Ek bar bola na 'No Files.media'/Keep Away/Don't You Understand/Don't touch that person/She will call you her Brother if you do it!/Dekh Bhai Don't Touch Me/New folder (2)/IMG_20151109_194613.jpg",
+		"/G/Nevron/Pictures/Personal/Pictures-Selfie's/Sent/No Files.media/Ek bar bola na 'No Files.media'/Keep Away/Don't You Understand/Don't touch that person/She will call you her Brother if you do it!/Dekh Bhai Don't Touch Me/New folder (2)/IMG-20151001-WA0072.jpg",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/Assignment 1/assignment-1 2/index.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/Assignment 1/assignment-1 2/teams.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/Assignment 1/assignment-1 2/history.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/Assignment 1/assignment-1 2/css/hw1.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/css/codetogether.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/css/hw1.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/hw1.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/codetogther.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/css/codetogether.css.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/codetogther.html.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/code.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/code.css",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to CSS3/Week 1/Code Together - 1",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 3/Neil Albuquerque_ITH_FinalProject.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 3/test.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 3/finalproject.html",
+		"/C/Users/Albuquerque/Desktop/test.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 2/table.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 2/fontawesome2.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 2/index.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Introduction to HTML5/Week 1/FirstPage.html",
+		"/F/Neil/Online Courses/Coursea/Web Design for Everybody Basics of Web Development & Coding/Week 1/FirstPage.html",
+		"/C/djangoproject1/helloapp/helloapp/settings.py",
+		"/C/djangoproject1/helloapp/helloapp/urls.py",
+		"/C/djangoproject1/helloapp/hello/urls.py",
+		"/C/djangoproject1/helloapp/hello/templates/home.html",
+		"/C/djangoproject1/helloapp/hello/views.py",
+		"/C/djangoproject1/helloapp/hello/templates/home.html.txt",
+		"/F/Neil/CodeX/CodeX_22_09_2019/index.html",
+		"/F/Neil/CodeX/CodeX_09_09_2019 - Copy/index.html",
+		"/F/Neil/CodeX/CodeX_09_09_2019 - Copy/images/members/darren1920.JPG",
+		"/F/Neil/CodeX/CodeX_09_09_2019 - Copy/text.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

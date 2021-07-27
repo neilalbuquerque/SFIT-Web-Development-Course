@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+    <script>
+        var time;
+        var i = 0;
+        var img = [];
+        img[0] = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg";
+        img[1] = "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg";
+        img[2] = "https://cdn.pixabay.com/photo/2016/01/08/11/57/butterfly-1127666_960_720.jpg";
+        img[3] = "https://cdn.pixabay.com/photo/2015/01/28/23/35/landscape-615429_960_720.jpg";
+        img[4] = "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539__340.jpg";
+        img[5] = "https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636__340.jpg";
+        img[6] = "https://cdn.pixabay.com/photo/2013/07/18/10/56/railroad-tracks-163518_960_720.jpg";
+        img[7] = "https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954__340.jpg";
+        img[8] = "https://cdn.pixabay.com/photo/2016/09/21/04/46/barley-field-1684052__340.jpg";
+        img[9] = "https://cdn.pixabay.com/photo/2018/09/23/18/30/drop-3698073__340.jpg";
+
+
+        function slideshow() {
+            time = document.getElementById("myTime").value;
+            console.log(time);
+            document.slideImage.src = img[i];
+            if (i < img.length - 1 && time > 0) {
+                i++;
+            } else {
+                i = 0;
+            }
+            setTimeout("slideshow()", time);
+        }
+
+        function cal(input) {
+            a = document.getElementById("num1").value;
+            b = document.getElementById("num2").value;
+            var x = document.getElementById("result");
+            var y = document.getElementById('sign');
+            console.log(input);
+            if (isNaN(a) || isNaN(b)) {
+                string = "Not valid";
+            } else {
+                string = "Valid";
+            }
+            document.getElementById("condition").innerHTML = string;
+            if (input == '+') {
+                x.innerHTML = parseInt(a) + parseInt(b);
+                y.innerHTML = '+';
+            } else if (input == '-') {
+                x.innerHTML = parseInt(a) - parseInt(b);
+                y.innerHTML = '-';
+            } else if (input == '/') {
+                x.innerHTML = parseInt(a) / parseInt(b);
+                y.innerHTML = '/';
+            } else {
+                x.innerHTML = parseInt(a) * parseInt(b);
+                y.innerHTML = '*';
+            }
+            console.log(x);
+        }
+
+        function Validate() {
+            var inputText=document.getElementById('emailId').value;
+            var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            if (inputText.match(mailformat)) {
+                document.getElementById('emailId').style.backgroundColor = "#C4FB6D";
+            } else {
+                document.getElementById('emailId').style.backgroundColor = "#E8505B";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <table style="width: 100% margin: auto;">
+        <tr style='max-width: 50%;'>
+            <td width="50%">
+                <input type="number" id="myTime" value='1'>
+                <button onclick="slideshow()">ANSWER</button>
+            </td>
+            <td><img name='slideImage' src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg" style="max-width: 200px; max-height: auto;"></td>
+        </tr>
+        <tr>
+            <td>
+                <input type='number' id='num1' placeholder="Enter First Number">
+                <span id="sign"></span>
+                <input type='number' id="num2" placeholder="Enter Second Number">
+                <br>
+                <p id='condition'></p><br>
+                <button onclick="cal('+')">ADD</button>
+                <button onclick="cal('-')">SUBTRACT</button>
+                <button onclick="cal('/')">DIVIDE</button>
+                <button onclick="cal('*')">MULTIPLY</button>
+            </td>
+            <td>
+                <p id='result'></p>
+            </td>
+        </tr>
+        <tr>
+            <td><input id='emailId' onkeyup="Validate()" placeholder="Enter Email ID"></td>
+            
+        </tr>
+    </table>
+
+</body>
+
+</html>

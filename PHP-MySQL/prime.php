@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>Range of Prime Numbers</title>	
+	</head>
+	<body>
+		<?php
+		if(isset($_POST['check']))
+		{
+			$a=$_POST['num1'];
+			$b=$_POST['num2'];
+			$flag=0;
+			if($a==1)
+			{
+				$a++;
+			}
+			for($a;$a<$b;$a++)
+			{
+				for($j=2;$j<$a;$j++)
+				{
+					if($a%$j==0)
+					{
+						$flag=1;
+					}
+				}
+				if($flag==0)
+				{
+					echo " ".$a." ";
+				}
+				$flag=0;
+			}
+		}
+		?>
+	</body>
+</html>

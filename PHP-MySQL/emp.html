@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Employee Details</title>
+	</head>
+	<body>
+		<h2>Enter the Employee Details:</h2>
+		<form action="insert.php" method="post">
+			<table>
+				<tr>
+					<td>Enter Employee Id:</td>
+				    <td><input type="number" name="e_id"></td>
+				</tr>
+				<tr>
+					<td>Enter Employee Name:</td>
+				    <td><input type="text" name="e_name"></td>
+				</tr>
+				<tr>
+					<td>Enter Designation of Employee:</td>
+				    <td><input type="text" name="e_des"></td>
+				</tr>
+				<tr>
+					<td>Enter Department of Employee:</td>
+				    <td><input type="text" name="e_dept"></td>
+				</tr>
+				<tr>
+					<td>Enter Employee Salary:</td>
+				    <td><input type="number" name="e_sal"></td>
+				</tr>
+				<tr>
+					<td><button>INSERT</button></td>
+				</tr>
+			</table>
+		</form>
+		<h2>Remove Employee Details:</h2>
+		<form action="delete.php" method="post">
+        <table>
+            <tr>
+                <td>Enter Employee Id:</td>
+                <td>
+                    <input type="number" name="e_id"></td>
+            </tr>
+            <tr>
+                <td><button>DELETE</button></td>
+            </tr>
+        </table>
+    	</form>
+    	<h2>Update Employee Details:</h2>
+	    <form action="update.php" method="post">
+	        <table>
+	            <tr>
+	                <td>Enter Employee Id:</td>
+	                <td>
+	                    <input type="number" name="e_id">
+	                </td>
+	            </tr>
+	            <tr>
+	                <td>Enter Designation of Employee:</td>
+	                <td>
+	                    <input type="text" name="e_des">
+	                </td>
+	            </tr>
+	            <tr>
+	                <td>
+	                    <button>UPDATE</button>
+	                </td>
+	            </tr>
+	        </table>
+	    </form>
+	</body>
+</html>
